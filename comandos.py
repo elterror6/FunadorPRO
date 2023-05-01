@@ -3,6 +3,8 @@
 #
 import discord
 from discord.ext import commands
+intents = discord.Intents.default()
+intents.members = True
 bot = commands.Bot(command_prefix="$", description='A great bot with a great power', help_command=help, intents=intents)
 #
 # Comando 'help' ...
