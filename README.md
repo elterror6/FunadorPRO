@@ -2,7 +2,7 @@
 
 Es un bot de Discord que tiene varias funciones de admisnistración de un servidor del mismo.
 
-## Como emprezar
+## Como empezar
 
 No es necesario instalar nada, simplemente añades el bot al servidor y ya comenzará a usarse.
 
