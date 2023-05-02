@@ -19,3 +19,4 @@ El uso del bot es simple, tu le pones un comando en un chat de texto y hará lo 
 
 ## Licencia
 
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
